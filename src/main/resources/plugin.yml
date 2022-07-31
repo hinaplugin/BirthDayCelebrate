@@ -1,0 +1,14 @@
+name: BirthDayCelebrate
+version: '${project.version}'
+main: com.hinaplugin.birthdaycelebrate.birthdaycelebrate.BirthDayCelebrate
+api-version: 1.18
+authors: [ hina2113 ]
+description: 登録された誕生日にログインしたらお祝いメッセージが流れます!
+
+commands:
+  birthday:
+    permission: bc.command.birthday
+
+permissions:
+  bc.command.birthday:
+    default: true
