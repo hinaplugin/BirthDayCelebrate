@@ -1,7 +1,7 @@
 # BirthDayCelebrate
 登録された誕生日にログインしたらお祝いメッセージが流れ，プレゼントのケーキが渡されます
 
-#使い方
+# 使い方
 まず初めに，
 ```
 /birthday set <month> <day>
