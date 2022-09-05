@@ -1,3 +1,4 @@
+<a href="https://github.com/hinaplugin/BirthDayCelebrate/releases"><img alt="download" src="https://img.shields.io/github/downloads/hinaplugin/BirthDayCelebrate/total?color=blue">
 # BirthDayCelebrate
 登録された誕生日にログインしたらお祝いメッセージが流れ，プレゼントのケーキが渡されます
 
